@@ -29,7 +29,7 @@ Google developers - <https://developers.google.com/machine-learning/crash-course
 * precipitation_probability: Percent (%)
 * wind_speed_10m: kmph
 * wind_direction_10m: degrees (°)
-* surface_pressure: hPa*
+* surface_pressure: hPa
 
 ## Assumptions
 
