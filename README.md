@@ -42,3 +42,4 @@ Handling missing data is and thoroughly checking the data prior to model trainin
 ## Conclusion
 
 Dropping the rows with NaN values performed better likely due to the reduced ambiguity of the dataset, improving the model's ability to learn relationships between the features and targets.
+Imputing also created ambiguity for the dataset causing the model to perform poorly.
